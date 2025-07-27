@@ -12,7 +12,7 @@
 ---
 
 ## 📷 Screenshot
-![Globe Teller Banner](https://hackclub.slack.com/archives/C016DEDUL87/p1753642491971119?thread_ts=1753642488.136549&cid=C016DEDUL87)
+![Globe Teller Banner](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30059334ccec3a41c0738d71f750cf7038cba20d_screenshot_27-7-2025_52738_localhost.jpeg)
 
 ---
 
