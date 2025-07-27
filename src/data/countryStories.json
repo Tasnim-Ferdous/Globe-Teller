@@ -1,0 +1,1010 @@
+{
+  "Moldova": {
+    "story": "Moldova is a country in the Europe. Capital is Chișinău.",
+    "image": "https://flagcdn.com/w320/md.png"
+  },
+  "Comoros": {
+    "story": "Comoros is a country in the Africa. Capital is Moroni.",
+    "image": "https://flagcdn.com/w320/km.png"
+  },
+  "Malaysia": {
+    "story": "Malaysia is a country in the Asia. Capital is Kuala Lumpur.",
+    "image": "https://flagcdn.com/w320/my.png"
+  },
+  "Algeria": {
+    "story": "Algeria is a country in the Africa. Capital is Algiers.",
+    "image": "https://flagcdn.com/w320/dz.png"
+  },
+  "Norfolk Island": {
+    "story": "Norfolk Island is a country in the Oceania. Capital is Kingston.",
+    "image": "https://flagcdn.com/w320/nf.png"
+  },
+  "Slovenia": {
+    "story": "Slovenia is a country in the Europe. Capital is Ljubljana.",
+    "image": "https://flagcdn.com/w320/si.png"
+  },
+  "Guyana": {
+    "story": "Guyana is a country in the Americas. Capital is Georgetown.",
+    "image": "https://flagcdn.com/w320/gy.png"
+  },
+  "South Georgia": {
+    "story": "South Georgia is a country in the Antarctic. Capital is King Edward Point.",
+    "image": "https://flagcdn.com/w320/gs.png"
+  },
+  "Christmas Island": {
+    "story": "Christmas Island is a country in the Oceania. Capital is Flying Fish Cove.",
+    "image": "https://flagcdn.com/w320/cx.png"
+  },
+  "France": {
+    "story": "France is a country in the Europe. Capital is Paris.",
+    "image": "https://flagcdn.com/w320/fr.png"
+  },
+  "Denmark": {
+    "story": "Denmark is a country in the Europe. Capital is Copenhagen.",
+    "image": "https://flagcdn.com/w320/dk.png"
+  },
+  "Kazakhstan": {
+    "story": "Kazakhstan is a country in the Asia. Capital is Astana.",
+    "image": "https://flagcdn.com/w320/kz.png"
+  },
+  "Vanuatu": {
+    "story": "Vanuatu is a country in the Oceania. Capital is Port Vila.",
+    "image": "https://flagcdn.com/w320/vu.png"
+  },
+  "Ukraine": {
+    "story": "Ukraine is a country in the Europe. Capital is Kyiv.",
+    "image": "https://flagcdn.com/w320/ua.png"
+  },
+  "Liechtenstein": {
+    "story": "Liechtenstein is a country in the Europe. Capital is Vaduz.",
+    "image": "https://flagcdn.com/w320/li.png"
+  },
+  "Austria": {
+    "story": "Austria is a country in the Europe. Capital is Vienna.",
+    "image": "https://flagcdn.com/w320/at.png"
+  },
+  "Kuwait": {
+    "story": "Kuwait is a country in the Asia. Capital is Kuwait City.",
+    "image": "https://flagcdn.com/w320/kw.png"
+  },
+  "Andorra": {
+    "story": "Andorra is a country in the Europe. Capital is Andorra la Vella.",
+    "image": "https://flagcdn.com/w320/ad.png"
+  },
+  "Botswana": {
+    "story": "Botswana is a country in the Africa. Capital is Gaborone.",
+    "image": "https://flagcdn.com/w320/bw.png"
+  },
+  "Faroe Islands": {
+    "story": "Faroe Islands is a country in the Europe. Capital is Tórshavn.",
+    "image": "https://flagcdn.com/w320/fo.png"
+  },
+  "United Arab Emirates": {
+    "story": "United Arab Emirates is a country in the Asia. Capital is Abu Dhabi.",
+    "image": "https://flagcdn.com/w320/ae.png"
+  },
+  "Cameroon": {
+    "story": "Cameroon is a country in the Africa. Capital is Yaoundé.",
+    "image": "https://flagcdn.com/w320/cm.png"
+  },
+  "Russia": {
+    "story": "Russia is a country in the Europe. Capital is Moscow.",
+    "image": "https://flagcdn.com/w320/ru.png"
+  },
+  "Jamaica": {
+    "story": "Jamaica is a country in the Americas. Capital is Kingston.",
+    "image": "https://flagcdn.com/w320/jm.png"
+  },
+  "Palestine": {
+    "story": "Palestine is a country in the Asia. Capital is Ramallah.",
+    "image": "https://flagcdn.com/w320/ps.png"
+  },
+  "Djibouti": {
+    "story": "Djibouti is a country in the Africa. Capital is Djibouti.",
+    "image": "https://flagcdn.com/w320/dj.png"
+  },
+  "Kenya": {
+    "story": "Kenya is a country in the Africa. Capital is Nairobi.",
+    "image": "https://flagcdn.com/w320/ke.png"
+  },
+  "Belize": {
+    "story": "Belize is a country in the Americas. Capital is Belmopan.",
+    "image": "https://flagcdn.com/w320/bz.png"
+  },
+  "French Polynesia": {
+    "story": "French Polynesia is a country in the Oceania. Capital is Papeetē.",
+    "image": "https://flagcdn.com/w320/pf.png"
+  },
+  "Myanmar": {
+    "story": "Myanmar is a country in the Asia. Capital is Naypyidaw.",
+    "image": "https://flagcdn.com/w320/mm.png"
+  },
+  "Gibraltar": {
+    "story": "Gibraltar is a country in the Europe. Capital is Gibraltar.",
+    "image": "https://flagcdn.com/w320/gi.png"
+  },
+  "Singapore": {
+    "story": "Singapore is a country in the Asia. Capital is Singapore.",
+    "image": "https://flagcdn.com/w320/sg.png"
+  },
+  "Slovakia": {
+    "story": "Slovakia is a country in the Europe. Capital is Bratislava.",
+    "image": "https://flagcdn.com/w320/sk.png"
+  },
+  "Iceland": {
+    "story": "Iceland is a country in the Europe. Capital is Reykjavik.",
+    "image": "https://flagcdn.com/w320/is.png"
+  },
+  "Bhutan": {
+    "story": "Bhutan is a country in the Asia. Capital is Thimphu.",
+    "image": "https://flagcdn.com/w320/bt.png"
+  },
+  "Macedonia": {
+    "story": "Macedonia is a country in the Europe. Capital is Skopje.",
+    "image": "https://flagcdn.com/w320/mk.png"
+  },
+  "United States Virgin Islands": {
+    "story": "United States Virgin Islands is a country in the Americas. Capital is Charlotte Amalie.",
+    "image": "https://flagcdn.com/w320/vi.png"
+  },
+  "Guinea": {
+    "story": "Guinea is a country in the Africa. Capital is Conakry.",
+    "image": "https://flagcdn.com/w320/gn.png"
+  },
+  "Hong Kong": {
+    "story": "Hong Kong is a country in the Asia. Capital is City of Victoria.",
+    "image": "https://flagcdn.com/w320/hk.png"
+  },
+  "Malta": {
+    "story": "Malta is a country in the Europe. Capital is Valletta.",
+    "image": "https://flagcdn.com/w320/mt.png"
+  },
+  "Afghanistan": {
+    "story": "Afghanistan is a country in the Asia. Capital is Kabul.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
+  },
+  "United States of America": {
+    "story": "United States is a country in the Americas. Capital is Washington, D.C..",
+    "image": "https://flagcdn.com/w320/us.png"
+  },
+  "Suriname": {
+    "story": "Suriname is a country in the Americas. Capital is Paramaribo.",
+    "image": "https://flagcdn.com/w320/sr.png"
+  },
+  "Guernsey": {
+    "story": "Guernsey is a country in the Europe. Capital is St. Peter Port.",
+    "image": "https://flagcdn.com/w320/gg.png"
+  },
+  "Curaçao": {
+    "story": "Curaçao is a country in the Americas. Capital is Willemstad.",
+    "image": "https://flagcdn.com/w320/cw.png"
+  },
+  "Vatican City": {
+    "story": "Vatican City is a country in the Europe. Capital is Vatican City.",
+    "image": "https://flagcdn.com/w320/va.png"
+  },
+  "Papua New Guinea": {
+    "story": "Papua New Guinea is a country in the Oceania. Capital is Port Moresby.",
+    "image": "https://flagcdn.com/w320/pg.png"
+  },
+  "Malawi": {
+    "story": "Malawi is a country in the Africa. Capital is Lilongwe.",
+    "image": "https://flagcdn.com/w320/mw.png"
+  },
+  "Hungary": {
+    "story": "Hungary is a country in the Europe. Capital is Budapest.",
+    "image": "https://flagcdn.com/w320/hu.png"
+  },
+  "Cambodia": {
+    "story": "Cambodia is a country in the Asia. Capital is Phnom Penh.",
+    "image": "https://flagcdn.com/w320/kh.png"
+  },
+  "Ecuador": {
+    "story": "Ecuador is a country in the Americas. Capital is Quito.",
+    "image": "https://flagcdn.com/w320/ec.png"
+  },
+  "Canada": {
+    "story": "Canada is a country in the Americas. Capital is Ottawa.",
+    "image": "https://flagcdn.com/w320/ca.png"
+  },
+  "Norway": {
+    "story": "Norway is a country in the Europe. Capital is Oslo.",
+    "image": "https://flagcdn.com/w320/no.png"
+  },
+  "Cayman Islands": {
+    "story": "Cayman Islands is a country in the Americas. Capital is George Town.",
+    "image": "https://flagcdn.com/w320/ky.png"
+  },
+  "Martinique": {
+    "story": "Martinique is a country in the Americas. Capital is Fort-de-France.",
+    "image": "https://flagcdn.com/w320/mq.png"
+  },
+  "Sint Maarten": {
+    "story": "Sint Maarten is a country in the Americas. Capital is Philipsburg.",
+    "image": "https://flagcdn.com/w320/sx.png"
+  },
+  "Mali": {
+    "story": "Mali is a country in the Africa. Capital is Bamako.",
+    "image": "https://flagcdn.com/w320/ml.png"
+  },
+  "Samoa": {
+    "story": "Samoa is a country in the Oceania. Capital is Apia.",
+    "image": "https://flagcdn.com/w320/ws.png"
+  },
+  "Fiji": {
+    "story": "Fiji is a country in the Oceania. Capital is Suva.",
+    "image": "https://flagcdn.com/w320/fj.png"
+  },
+  "Colombia": {
+    "story": "Colombia is a country in the Americas. Capital is Bogotá.",
+    "image": "https://flagcdn.com/w320/co.png"
+  },
+  "Cuba": {
+    "story": "Cuba is a country in the Americas. Capital is Havana.",
+    "image": "https://flagcdn.com/w320/cu.png"
+  },
+  "Thailand": {
+    "story": "Thailand is a country in the Asia. Capital is Bangkok.",
+    "image": "https://flagcdn.com/w320/th.png"
+  },
+  "Mongolia": {
+    "story": "Mongolia is a country in the Asia. Capital is Ulan Bator.",
+    "image": "https://flagcdn.com/w320/mn.png"
+  },
+  "Réunion": {
+    "story": "Réunion is a country in the Africa. Capital is Saint-Denis.",
+    "image": "https://flagcdn.com/w320/re.png"
+  },
+  "Guinea-Bissau": {
+    "story": "Guinea-Bissau is a country in the Africa. Capital is Bissau.",
+    "image": "https://flagcdn.com/w320/gw.png"
+  },
+  "Argentina": {
+    "story": "Argentina is a country in the Americas. Capital is Buenos Aires.",
+    "image": "https://flagcdn.com/w320/ar.png"
+  },
+  "Mexico": {
+    "story": "Mexico is a country in the Americas. Capital is Mexico City.",
+    "image": "https://flagcdn.com/w320/mx.png"
+  },
+  "Turkmenistan": {
+    "story": "Turkmenistan is a country in the Asia. Capital is Ashgabat.",
+    "image": "https://flagcdn.com/w320/tm.png"
+  },
+  "Fr. S. Antarctic Lands": {
+    "story": "French Southern and Antarctic Lands is a country in the Antarctic. Capital is Port-aux-Français.",
+    "image": "https://flagcdn.com/w320/tf.png"
+  },
+  "Ethiopia": {
+    "story": "Ethiopia is a country in the Africa. Capital is Addis Ababa.",
+    "image": "https://flagcdn.com/w320/et.png"
+  },
+  "Gabon": {
+    "story": "Gabon is a country in the Africa. Capital is Libreville.",
+    "image": "https://flagcdn.com/w320/ga.png"
+  },
+  "South Korea": {
+    "story": "South Korea is a country in the Asia. Capital is Seoul.",
+    "image": "https://flagcdn.com/w320/kr.png"
+  },
+  "Togo": {
+    "story": "Togo is a country in the Africa. Capital is Lomé.",
+    "image": "https://flagcdn.com/w320/tg.png"
+  },
+  "Ghana": {
+    "story": "Ghana is a country in the Africa. Capital is Accra.",
+    "image": "https://flagcdn.com/w320/gh.png"
+  },
+  "Zambia": {
+    "story": "Zambia is a country in the Africa. Capital is Lusaka.",
+    "image": "https://flagcdn.com/w320/zm.png"
+  },
+  "New Zealand": {
+    "story": "New Zealand is a country in the Oceania. Capital is Wellington.",
+    "image": "https://flagcdn.com/w320/nz.png"
+  },
+  "Laos": {
+    "story": "Laos is a country in the Asia. Capital is Vientiane.",
+    "image": "https://flagcdn.com/w320/la.png"
+  },
+  "Burundi": {
+    "story": "Burundi is a country in the Africa. Capital is Gitega.",
+    "image": "https://flagcdn.com/w320/bi.png"
+  },
+  "Pakistan": {
+    "story": "Pakistan is a country in the Asia. Capital is Islamabad.",
+    "image": "https://flagcdn.com/w320/pk.png"
+  },
+  "Armenia": {
+    "story": "Armenia is a country in the Asia. Capital is Yerevan.",
+    "image": "https://flagcdn.com/w320/am.png"
+  },
+  "Czechia": {
+    "story": "Czechia is a country in the Europe. Capital is Prague.",
+    "image": "https://flagcdn.com/w320/cz.png"
+  },
+  "San Marino": {
+    "story": "San Marino is a country in the Europe. Capital is City of San Marino.",
+    "image": "https://flagcdn.com/w320/sm.png"
+  },
+  "São Tomé and Príncipe": {
+    "story": "São Tomé and Príncipe is a country in the Africa. Capital is São Tomé.",
+    "image": "https://flagcdn.com/w320/st.png"
+  },
+  "Niue": {
+    "story": "Niue is a country in the Oceania. Capital is Alofi.",
+    "image": "https://flagcdn.com/w320/nu.png"
+  },
+  "Bahamas": {
+    "story": "Bahamas is a country in the Americas. Capital is Nassau.",
+    "image": "https://flagcdn.com/w320/bs.png"
+  },
+  "Finland": {
+    "story": "Finland is a country in the Europe. Capital is Helsinki.",
+    "image": "https://flagcdn.com/w320/fi.png"
+  },
+  "Guatemala": {
+    "story": "Guatemala is a country in the Americas. Capital is Guatemala City.",
+    "image": "https://flagcdn.com/w320/gt.png"
+  },
+  "Sierra Leone": {
+    "story": "Sierra Leone is a country in the Africa. Capital is Freetown.",
+    "image": "https://flagcdn.com/w320/sl.png"
+  },
+  "Luxembourg": {
+    "story": "Luxembourg is a country in the Europe. Capital is Luxembourg.",
+    "image": "https://flagcdn.com/w320/lu.png"
+  },
+  "Tuvalu": {
+    "story": "Tuvalu is a country in the Oceania. Capital is Funafuti.",
+    "image": "https://flagcdn.com/w320/tv.png"
+  },
+  "Eritrea": {
+    "story": "Eritrea is a country in the Africa. Capital is Asmara.",
+    "image": "https://flagcdn.com/w320/er.png"
+  },
+  "Jersey": {
+    "story": "Jersey is a country in the Europe. Capital is Saint Helier.",
+    "image": "https://flagcdn.com/w320/je.png"
+  },
+  "Honduras": {
+    "story": "Honduras is a country in the Americas. Capital is Tegucigalpa.",
+    "image": "https://flagcdn.com/w320/hn.png"
+  },
+  "W. Sahara": {
+    "story": "Western Sahara is a country in the Africa. Capital is El Aaiún.",
+    "image": "https://flagcdn.com/w320/eh.png"
+  },
+  "Senegal": {
+    "story": "Senegal is a country in the Africa. Capital is Dakar.",
+    "image": "https://flagcdn.com/w320/sn.png"
+  },
+  "Svalbard and Jan Mayen": {
+    "story": "Svalbard and Jan Mayen is a country in the Europe. Capital is Longyearbyen.",
+    "image": "https://flagcdn.com/w320/sj.png"
+  },
+  "Nepal": {
+    "story": "Nepal is a country in the Asia. Capital is Kathmandu.",
+    "image": "https://flagcdn.com/w320/np.png"
+  },
+  "Antigua and Barbuda": {
+    "story": "Antigua and Barbuda is a country in the Americas. Capital is Saint John's.",
+    "image": "https://flagcdn.com/w320/ag.png"
+  },
+  "Cape Verde": {
+    "story": "Cape Verde is a country in the Africa. Capital is Praia.",
+    "image": "https://flagcdn.com/w320/cv.png"
+  },
+  "Bangladesh": {
+    "story": "Bangladesh is a country in the Asia. Capital is Dhaka.",
+    "image": "https://flagcdn.com/w320/bd.png"
+  },
+  "Kyrgyzstan": {
+    "story": "Kyrgyzstan is a country in the Asia. Capital is Bishkek.",
+    "image": "https://flagcdn.com/w320/kg.png"
+  },
+  "Anguilla": {
+    "story": "Anguilla is a country in the Americas. Capital is The Valley.",
+    "image": "https://flagcdn.com/w320/ai.png"
+  },
+  "Nigeria": {
+    "story": "Nigeria is a country in the Africa. Capital is Abuja.",
+    "image": "https://flagcdn.com/w320/ng.png"
+  },
+  "Spain": {
+    "story": "Spain is a country in the Europe. Capital is Madrid.",
+    "image": "https://flagcdn.com/w320/es.png"
+  },
+  "British Virgin Islands": {
+    "story": "British Virgin Islands is a country in the Americas. Capital is Road Town.",
+    "image": "https://flagcdn.com/w320/vg.png"
+  },
+  "Marshall Islands": {
+    "story": "Marshall Islands is a country in the Oceania. Capital is Majuro.",
+    "image": "https://flagcdn.com/w320/mh.png"
+  },
+  "Mayotte": {
+    "story": "Mayotte is a country in the Africa. Capital is Mamoudzou.",
+    "image": "https://flagcdn.com/w320/yt.png"
+  },
+  "Qatar": {
+    "story": "Qatar is a country in the Asia. Capital is Doha.",
+    "image": "https://flagcdn.com/w320/qa.png"
+  },
+  "Venezuela": {
+    "story": "Venezuela is a country in the Americas. Capital is Caracas.",
+    "image": "https://flagcdn.com/w320/ve.png"
+  },
+  "Tunisia": {
+    "story": "Tunisia is a country in the Africa. Capital is Tunis.",
+    "image": "https://flagcdn.com/w320/tn.png"
+  },
+  "Monaco": {
+    "story": "Monaco is a country in the Europe. Capital is Monaco.",
+    "image": "https://flagcdn.com/w320/mc.png"
+  },
+  "United States Minor Outlying Islands": {
+    "story": "United States Minor Outlying Islands is a country in the Americas. Capital is Washington DC.",
+    "image": "https://flagcdn.com/w320/um.png"
+  },
+  "Central African Rep.": {
+    "story": "Central African Republic is a country in the Africa. Capital is Bangui.",
+    "image": "https://flagcdn.com/w320/cf.png"
+  },
+  "Macau": {
+    "story": "Macau is a country in the Asia. Capital is undefined.",
+    "image": "https://flagcdn.com/w320/mo.png"
+  },
+  "Latvia": {
+    "story": "Latvia is a country in the Europe. Capital is Riga.",
+    "image": "https://flagcdn.com/w320/lv.png"
+  },
+  "Uzbekistan": {
+    "story": "Uzbekistan is a country in the Asia. Capital is Tashkent.",
+    "image": "https://flagcdn.com/w320/uz.png"
+  },
+  "Brazil": {
+    "story": "Brazil is a country in the Americas. Capital is Brasília.",
+    "image": "https://flagcdn.com/w320/br.png"
+  },
+  "Cyprus": {
+    "story": "Cyprus is a country in the Europe. Capital is Nicosia.",
+    "image": "https://flagcdn.com/w320/cy.png"
+  },
+  "N. Cyprus": {
+    "story": "Northern Cyprus is a country in the Europe. Capital is North Nicosia.",
+    "image": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/998a2d2fe6c739fd43a8bd6e65872fd07887b65d_flag_of_the_turkish_republic_of_northern_cyprus.svg.png"
+  },
+  "North Korea": {
+    "story": "North Korea is a country in the Asia. Capital is Pyongyang.",
+    "image": "https://flagcdn.com/w320/kp.png"
+  },
+  "Dominica": {
+    "story": "Dominica is a country in the Americas. Capital is Roseau.",
+    "image": "https://flagcdn.com/w320/dm.png"
+  },
+  "Bosnia and Herz.": {
+    "story": "Bosnia and Herzegovina is a country in the Europe. Capital is Sarajevo.",
+    "image": "https://flagcdn.com/w320/ba.png"
+  },
+  "Cocos (Keeling) Islands": {
+    "story": "Cocos (Keeling) Islands is a country in the Oceania. Capital is West Island.",
+    "image": "https://flagcdn.com/w320/cc.png"
+  },
+  "Sri Lanka": {
+    "story": "Sri Lanka is a country in the Asia. Capital is Sri Jayawardenepura Kotte.",
+    "image": "https://flagcdn.com/w320/lk.png"
+  },
+  "Congo": {
+    "story": "Republic of the Congo is a country in the Africa. Capital is Brazzaville.",
+    "image": "https://flagcdn.com/w320/cg.png"
+  },
+  "Israel": {
+    "story": "Israel is a country in the Asia. Capital is Jerusalem.",
+    "image": "https://flagcdn.com/w320/il.png"
+  },
+  "Namibia": {
+    "story": "Namibia is a country in the Africa. Capital is Windhoek.",
+    "image": "https://flagcdn.com/w320/na.png"
+  },
+  "Micronesia": {
+    "story": "Micronesia is a country in the Oceania. Capital is Palikir.",
+    "image": "https://flagcdn.com/w320/fm.png"
+  },
+  "Heard Island and McDonald Islands": {
+    "story": "Heard Island and McDonald Islands is a country in the Antarctic. Capital is undefined.",
+    "image": "https://flagcdn.com/w320/hm.png"
+  },
+  "S. Sudan": {
+    "story": "South Sudan is a country in the Africa. Capital is Juba.",
+    "image": "https://flagcdn.com/w320/ss.png"
+  },
+  "Somaliland": {
+    "story": "Somaliland is a country in the Africa. Capital is Hargeisa.",
+    "image": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/2f640499e2b7048044b572caf3cf2053813eb683_oip.webp"
+  },
+  "Rwanda": {
+    "story": "Rwanda is a country in the Africa. Capital is Kigali.",
+    "image": "https://flagcdn.com/w320/rw.png"
+  },
+  "Uganda": {
+    "story": "Uganda is a country in the Africa. Capital is Kampala.",
+    "image": "https://flagcdn.com/w320/ug.png"
+  },
+  "Portugal": {
+    "story": "Portugal is a country in the Europe. Capital is Lisbon.",
+    "image": "https://flagcdn.com/w320/pt.png"
+  },
+  "Bolivia": {
+    "story": "Bolivia is a country in the Americas. Capital is Sucre.",
+    "image": "https://flagcdn.com/w320/bo.png"
+  },
+  "Lesotho": {
+    "story": "Lesotho is a country in the Africa. Capital is Maseru.",
+    "image": "https://flagcdn.com/w320/ls.png"
+  },
+  "Chad": {
+    "story": "Chad is a country in the Africa. Capital is N'Djamena.",
+    "image": "https://flagcdn.com/w320/td.png"
+  },
+  "Saint Helena, Ascension and Tristan da Cunha": {
+    "story": "Saint Helena, Ascension and Tristan da Cunha is a country in the Africa. Capital is Jamestown.",
+    "image": "https://flagcdn.com/w320/sh.png"
+  },
+  "Cook Islands": {
+    "story": "Cook Islands is a country in the Oceania. Capital is Avarua.",
+    "image": "https://flagcdn.com/w320/ck.png"
+  },
+  "Saint Pierre and Miquelon": {
+    "story": "Saint Pierre and Miquelon is a country in the Americas. Capital is Saint-Pierre.",
+    "image": "https://flagcdn.com/w320/pm.png"
+  },
+  "Lithuania": {
+    "story": "Lithuania is a country in the Europe. Capital is Vilnius.",
+    "image": "https://flagcdn.com/w320/lt.png"
+  },
+  "Montenegro": {
+    "story": "Montenegro is a country in the Europe. Capital is Podgorica.",
+    "image": "https://flagcdn.com/w320/me.png"
+  },
+  "Oman": {
+    "story": "Oman is a country in the Asia. Capital is Muscat.",
+    "image": "https://flagcdn.com/w320/om.png"
+  },
+  "Sudan": {
+    "story": "Sudan is a country in the Africa. Capital is Khartoum.",
+    "image": "https://flagcdn.com/w320/sd.png"
+  },
+  "Brunei": {
+    "story": "Brunei is a country in the Asia. Capital is Bandar Seri Begawan.",
+    "image": "https://flagcdn.com/w320/bn.png"
+  },
+  "Dem. Rep. Congo": {
+    "story": "Dem. Rep. Congo is a country in the Africa. Capital is Kinshasa.",
+    "image": "https://flagcdn.com/w320/cd.png"
+  },
+  "Greece": {
+    "story": "Greece is a country in the Europe. Capital is Athens.",
+    "image": "https://flagcdn.com/w320/gr.png"
+  },
+  "Albania": {
+    "story": "Albania is a country in the Europe. Capital is Tirana.",
+    "image": "https://flagcdn.com/w320/al.png"
+  },
+  "Tanzania": {
+    "story": "Tanzania is a country in the Africa. Capital is Dodoma.",
+    "image": "https://flagcdn.com/w320/tz.png"
+  },
+  "Georgia": {
+    "story": "Georgia is a country in the Asia. Capital is Tbilisi.",
+    "image": "https://flagcdn.com/w320/ge.png"
+  },
+  "Japan": {
+    "story": "Japan is a country in the Asia. Capital is Tokyo.",
+    "image": "https://flagcdn.com/w320/jp.png"
+  },
+  "Saudi Arabia": {
+    "story": "Saudi Arabia is a country in the Asia. Capital is Riyadh.",
+    "image": "https://flagcdn.com/w320/sa.png"
+  },
+  "Croatia": {
+    "story": "Croatia is a country in the Europe. Capital is Zagreb.",
+    "image": "https://flagcdn.com/w320/hr.png"
+  },
+  "Solomon Is.": {
+    "story": "Solomon Islands is a country in the Oceania. Capital is Honiara.",
+    "image": "https://flagcdn.com/w320/sb.png"
+  },
+  "Yemen": {
+    "story": "Yemen is a country in the Asia. Capital is Sana'a.",
+    "image": "https://flagcdn.com/w320/ye.png"
+  },
+  "Somalia": {
+    "story": "Somalia is a country in the Africa. Capital is Mogadishu.",
+    "image": "https://flagcdn.com/w320/so.png"
+  },
+  "Grenada": {
+    "story": "Grenada is a country in the Americas. Capital is St. George's.",
+    "image": "https://flagcdn.com/w320/gd.png"
+  },
+  "Tonga": {
+    "story": "Tonga is a country in the Oceania. Capital is Nuku'alofa.",
+    "image": "https://flagcdn.com/w320/to.png"
+  },
+  "Nicaragua": {
+    "story": "Nicaragua is a country in the Americas. Capital is Managua.",
+    "image": "https://flagcdn.com/w320/ni.png"
+  },
+  "Paraguay": {
+    "story": "Paraguay is a country in the Americas. Capital is Asunción.",
+    "image": "https://flagcdn.com/w320/py.png"
+  },
+  "India": {
+    "story": "India is a country in the Asia. Capital is New Delhi.",
+    "image": "https://flagcdn.com/w320/in.png"
+  },
+  "United Kingdom": {
+    "story": "United Kingdom is a country in the Europe. Capital is London.",
+    "image": "https://flagcdn.com/w320/gb.png"
+  },
+  "eSwatini": {
+    "story": "Eswatini is a country in the Africa. Capital is Mbabane.",
+    "image": "https://flagcdn.com/w320/sz.png"
+  },
+  "Madagascar": {
+    "story": "Madagascar is a country in the Africa. Capital is Antananarivo.",
+    "image": "https://flagcdn.com/w320/mg.png"
+  },
+  "Eq. Guinea": {
+    "story": "Equatorial Guinea is a country in the Africa. Capital is Malabo.",
+    "image": "https://flagcdn.com/w320/gq.png"
+  },
+  "Jordan": {
+    "story": "Jordan is a country in the Asia. Capital is Amman.",
+    "image": "https://flagcdn.com/w320/jo.png"
+  },
+  "Guadeloupe": {
+    "story": "Guadeloupe is a country in the Americas. Capital is Basse-Terre.",
+    "image": "https://flagcdn.com/w320/gp.png"
+  },
+  "Belarus": {
+    "story": "Belarus is a country in the Europe. Capital is Minsk.",
+    "image": "https://flagcdn.com/w320/by.png"
+  },
+  "Maldives": {
+    "story": "Maldives is a country in the Asia. Capital is Malé.",
+    "image": "https://flagcdn.com/w320/mv.png"
+  },
+  "Timor-Leste": {
+    "story": "Timor-Leste is a country in the Asia. Capital is Dili.",
+    "image": "https://flagcdn.com/w320/tl.png"
+  },
+  "Serbia": {
+    "story": "Serbia is a country in the Europe. Capital is Belgrade.",
+    "image": "https://flagcdn.com/w320/rs.png"
+  },
+  "Ireland": {
+    "story": "Ireland is a country in the Europe. Capital is Dublin.",
+    "image": "https://flagcdn.com/w320/ie.png"
+  },
+  "Chile": {
+    "story": "Chile is a country in the Americas. Capital is Santiago.",
+    "image": "https://flagcdn.com/w320/cl.png"
+  },
+  "Iraq": {
+    "story": "Iraq is a country in the Asia. Capital is Baghdad.",
+    "image": "https://flagcdn.com/w320/iq.png"
+  },
+  "Philippines": {
+    "story": "Philippines is a country in the Asia. Capital is Manila.",
+    "image": "https://flagcdn.com/w320/ph.png"
+  },
+  "South Africa": {
+    "story": "South Africa is a country in the Africa. Capital is Pretoria.",
+    "image": "https://flagcdn.com/w320/za.png"
+  },
+  "Benin": {
+    "story": "Benin is a country in the Africa. Capital is Porto-Novo.",
+    "image": "https://flagcdn.com/w320/bj.png"
+  },
+  "Bulgaria": {
+    "story": "Bulgaria is a country in the Europe. Capital is Sofia.",
+    "image": "https://flagcdn.com/w320/bg.png"
+  },
+  "Indonesia": {
+    "story": "Indonesia is a country in the Asia. Capital is Jakarta.",
+    "image": "https://flagcdn.com/w320/id.png"
+  },
+  "Mauritania": {
+    "story": "Mauritania is a country in the Africa. Capital is Nouakchott.",
+    "image": "https://flagcdn.com/w320/mr.png"
+  },
+  "Seychelles": {
+    "story": "Seychelles is a country in the Africa. Capital is Victoria.",
+    "image": "https://flagcdn.com/w320/sc.png"
+  },
+  "Romania": {
+    "story": "Romania is a country in the Europe. Capital is Bucharest.",
+    "image": "https://flagcdn.com/w320/ro.png"
+  },
+  "Turkey": {
+    "story": "Turkey is a country in the Asia. Capital is Ankara.",
+    "image": "https://flagcdn.com/w320/tr.png"
+  },
+  "Burkina Faso": {
+    "story": "Burkina Faso is a country in the Africa. Capital is Ouagadougou.",
+    "image": "https://flagcdn.com/w320/bf.png"
+  },
+  "Bermuda": {
+    "story": "Bermuda is a country in the Americas. Capital is Hamilton.",
+    "image": "https://flagcdn.com/w320/bm.png"
+  },
+  "New Caledonia": {
+    "story": "New Caledonia is a country in the Oceania. Capital is Nouméa.",
+    "image": "https://flagcdn.com/w320/nc.png"
+  },
+  "Antarctica": {
+    "story": "Antarctica is a country in the Antarctic. Capital is undefined.",
+    "image": "https://flagcdn.com/w320/aq.png"
+  },
+  "Egypt": {
+    "story": "Egypt is a country in the Africa. Capital is Cairo.",
+    "image": "https://flagcdn.com/w320/eg.png"
+  },
+  "Vietnam": {
+    "story": "Vietnam is a country in the Asia. Capital is Hanoi.",
+    "image": "https://flagcdn.com/w320/vn.png"
+  },
+  "Puerto Rico": {
+    "story": "Puerto Rico is a country in the Americas. Capital is San Juan.",
+    "image": "https://flagcdn.com/w320/pr.png"
+  },
+  "Trinidad and Tobago": {
+    "story": "Trinidad and Tobago is a country in the Americas. Capital is Port of Spain.",
+    "image": "https://flagcdn.com/w320/tt.png"
+  },
+  "Falkland Is.": {
+    "story": "Falkland Islands is a country in the Americas. Capital is Stanley.",
+    "image": "https://flagcdn.com/w320/fk.png"
+  },
+  "Angola": {
+    "story": "Angola is a country in the Africa. Capital is Luanda.",
+    "image": "https://flagcdn.com/w320/ao.png"
+  },
+  "China": {
+    "story": "China is a country in the Asia. Capital is Beijing.",
+    "image": "https://flagcdn.com/w320/cn.png"
+  },
+  "Montserrat": {
+    "story": "Montserrat is a country in the Americas. Capital is Plymouth.",
+    "image": "https://flagcdn.com/w320/ms.png"
+  },
+  "Turks and Caicos Islands": {
+    "story": "Turks and Caicos Islands is a country in the Americas. Capital is Cockburn Town.",
+    "image": "https://flagcdn.com/w320/tc.png"
+  },
+  "Åland Islands": {
+    "story": "Åland Islands is a country in the Europe. Capital is Mariehamn.",
+    "image": "https://flagcdn.com/w320/ax.png"
+  },
+  "Costa Rica": {
+    "story": "Costa Rica is a country in the Americas. Capital is San José.",
+    "image": "https://flagcdn.com/w320/cr.png"
+  },
+  "Uruguay": {
+    "story": "Uruguay is a country in the Americas. Capital is Montevideo.",
+    "image": "https://flagcdn.com/w320/uy.png"
+  },
+  "Morocco": {
+    "story": "Morocco is a country in the Africa. Capital is Rabat.",
+    "image": "https://flagcdn.com/w320/ma.png"
+  },
+  "Bouvet Island": {
+    "story": "Bouvet Island is a country in the Antarctic. Capital is undefined.",
+    "image": "https://flagcdn.com/w320/bv.png"
+  },
+  "Estonia": {
+    "story": "Estonia is a country in the Europe. Capital is Tallinn.",
+    "image": "https://flagcdn.com/w320/ee.png"
+  },
+  "Saint Lucia": {
+    "story": "Saint Lucia is a country in the Americas. Capital is Castries.",
+    "image": "https://flagcdn.com/w320/lc.png"
+  },
+  "Taiwan": {
+    "story": "Taiwan is a country in the Asia. Capital is Taipei.",
+    "image": "https://flagcdn.com/w320/tw.png"
+  },
+  "Haiti": {
+    "story": "Haiti is a country in the Americas. Capital is Port-au-Prince.",
+    "image": "https://flagcdn.com/w320/ht.png"
+  },
+  "Tajikistan": {
+    "story": "Tajikistan is a country in the Asia. Capital is Dushanbe.",
+    "image": "https://flagcdn.com/w320/tj.png"
+  },
+  "Niger": {
+    "story": "Niger is a country in the Africa. Capital is Niamey.",
+    "image": "https://flagcdn.com/w320/ne.png"
+  },
+  "Lebanon": {
+    "story": "Lebanon is a country in the Asia. Capital is Beirut.",
+    "image": "https://flagcdn.com/w320/lb.png"
+  },
+  "Australia": {
+    "story": "Australia is a country in the Oceania. Capital is Canberra.",
+    "image": "https://flagcdn.com/w320/au.png"
+  },
+  "Liberia": {
+    "story": "Liberia is a country in the Africa. Capital is Monrovia.",
+    "image": "https://flagcdn.com/w320/lr.png"
+  },
+  "Italy": {
+    "story": "Italy is a country in the Europe. Capital is Rome.",
+    "image": "https://flagcdn.com/w320/it.png"
+  },
+  "Northern Mariana Islands": {
+    "story": "Northern Mariana Islands is a country in the Oceania. Capital is Saipan.",
+    "image": "https://flagcdn.com/w320/mp.png"
+  },
+  "Saint Martin": {
+    "story": "Saint Martin is a country in the Americas. Capital is Marigot.",
+    "image": "https://flagcdn.com/w320/mf.png"
+  },
+  "Nauru": {
+    "story": "Nauru is a country in the Oceania. Capital is Yaren.",
+    "image": "https://flagcdn.com/w320/nr.png"
+  },
+  "Switzerland": {
+    "story": "Switzerland is a country in the Europe. Capital is Bern.",
+    "image": "https://flagcdn.com/w320/ch.png"
+  },
+  "Peru": {
+    "story": "Peru is a country in the Americas. Capital is Lima.",
+    "image": "https://flagcdn.com/w320/pe.png"
+  },
+  "Libya": {
+    "story": "Libya is a country in the Africa. Capital is Tripoli.",
+    "image": "https://flagcdn.com/w320/ly.png"
+  },
+  "Germany": {
+    "story": "Germany is a country in the Europe. Capital is Berlin.",
+    "image": "https://flagcdn.com/w320/de.png"
+  },
+  "Kosovo": {
+    "story": "Kosovo is a country in the Europe. Capital is Pristina.",
+    "image": "https://flagcdn.com/w320/xk.png"
+  },
+  "Guam": {
+    "story": "Guam is a country in the Oceania. Capital is Hagåtña.",
+    "image": "https://flagcdn.com/w320/gu.png"
+  },
+  "Bahrain": {
+    "story": "Bahrain is a country in the Asia. Capital is Manama.",
+    "image": "https://flagcdn.com/w320/bh.png"
+  },
+  "Wallis and Futuna": {
+    "story": "Wallis and Futuna is a country in the Oceania. Capital is Mata-Utu.",
+    "image": "https://flagcdn.com/w320/wf.png"
+  },
+  "Iran": {
+    "story": "Iran is a country in the Asia. Capital is Tehran.",
+    "image": "https://flagcdn.com/w320/ir.png"
+  },
+  "Panama": {
+    "story": "Panama is a country in the Americas. Capital is Panama City.",
+    "image": "https://flagcdn.com/w320/pa.png"
+  },
+  "Tokelau": {
+    "story": "Tokelau is a country in the Oceania. Capital is Fakaofo.",
+    "image": "https://flagcdn.com/w320/tk.png"
+  },
+  "Syria": {
+    "story": "Syria is a country in the Asia. Capital is Damascus.",
+    "image": "https://flagcdn.com/w320/sy.png"
+  },
+  "Saint Kitts and Nevis": {
+    "story": "Saint Kitts and Nevis is a country in the Americas. Capital is Basseterre.",
+    "image": "https://flagcdn.com/w320/kn.png"
+  },
+  "Gambia": {
+    "story": "Gambia is a country in the Africa. Capital is Banjul.",
+    "image": "https://flagcdn.com/w320/gm.png"
+  },
+  "Caribbean Netherlands": {
+    "story": "Caribbean Netherlands is a country in the Americas. Capital is Kralendijk.",
+    "image": "https://flagcdn.com/w320/bq.png"
+  },
+  "British Indian Ocean Territory": {
+    "story": "British Indian Ocean Territory is a country in the Africa. Capital is Diego Garcia.",
+    "image": "https://flagcdn.com/w320/io.png"
+  },
+  "Netherlands": {
+    "story": "Netherlands is a country in the Europe. Capital is Amsterdam.",
+    "image": "https://flagcdn.com/w320/nl.png"
+  },
+  "El Salvador": {
+    "story": "El Salvador is a country in the Americas. Capital is San Salvador.",
+    "image": "https://flagcdn.com/w320/sv.png"
+  },
+  "Côte d'Ivoire": {
+    "story": "Ivory Coast, also known as Côte d'Ivoire and officially the Republic of Côte d'Ivoire, is a country in the Africa. Capital is Yamoussoukro.",
+    "image": "https://flagcdn.com/w320/ci.png"
+  },
+  "Kiribati": {
+    "story": "Kiribati is a country in the Oceania. Capital is South Tarawa.",
+    "image": "https://flagcdn.com/w320/ki.png"
+  },
+  "Saint Barthélemy": {
+    "story": "Saint Barthélemy is a country in the Americas. Capital is Gustavia.",
+    "image": "https://flagcdn.com/w320/bl.png"
+  },
+  "American Samoa": {
+    "story": "American Samoa is a country in the Oceania. Capital is Pago Pago.",
+    "image": "https://flagcdn.com/w320/as.png"
+  },
+  "Aruba": {
+    "story": "Aruba is a country in the Americas. Capital is Oranjestad.",
+    "image": "https://flagcdn.com/w320/aw.png"
+  },
+  "French Guiana": {
+    "story": "French Guiana is a country in the Americas. Capital is Cayenne.",
+    "image": "https://flagcdn.com/w320/gf.png"
+  },
+  "Palau": {
+    "story": "Palau is a country in the Oceania. Capital is Ngerulmud.",
+    "image": "https://flagcdn.com/w320/pw.png"
+  },
+  "Saint Vincent and the Grenadines": {
+    "story": "Saint Vincent and the Grenadines is a country in the Americas. Capital is Kingstown.",
+    "image": "https://flagcdn.com/w320/vc.png"
+  },
+  "Poland": {
+    "story": "Poland is a country in the Europe. Capital is Warsaw.",
+    "image": "https://flagcdn.com/w320/pl.png"
+  },
+  "Barbados": {
+    "story": "Barbados is a country in the Americas. Capital is Bridgetown.",
+    "image": "https://flagcdn.com/w320/bb.png"
+  },
+  "Isle of Man": {
+    "story": "Isle of Man is a country in the Europe. Capital is Douglas.",
+    "image": "https://flagcdn.com/w320/im.png"
+  },
+  "Greenland": {
+    "story": "Greenland is a country in the Americas. Capital is Nuuk.",
+    "image": "https://flagcdn.com/w320/gl.png"
+  },
+  "Zimbabwe": {
+    "story": "Zimbabwe is a country in the Africa. Capital is Harare.",
+    "image": "https://flagcdn.com/w320/zw.png"
+  },
+  "Pitcairn Islands": {
+    "story": "Pitcairn Islands is a country in the Oceania. Capital is Adamstown.",
+    "image": "https://flagcdn.com/w320/pn.png"
+  },
+  "Sweden": {
+    "story": "Sweden is a country in the Europe. Capital is Stockholm.",
+    "image": "https://flagcdn.com/w320/se.png"
+  },
+  "Dominican Rep.": {
+    "story": "Dominican Republic is a country in the Americas. Capital is Santo Domingo.",
+    "image": "https://flagcdn.com/w320/do.png"
+  },
+  "Belgium": {
+    "story": "Belgium is a country in the Europe. Capital is Brussels.",
+    "image": "https://flagcdn.com/w320/be.png"
+  },
+  "Mozambique": {
+    "story": "Mozambique is a country in the Africa. Capital is Maputo.",
+    "image": "https://flagcdn.com/w320/mz.png"
+  },
+  "Mauritius": {
+    "story": "Mauritius is a country in the Africa. Capital is Port Louis.",
+    "image": "https://flagcdn.com/w320/mu.png"
+  },
+  "Azerbaijan": {
+    "story": "Azerbaijan is a country in the Asia. Capital is Baku.",
+    "image": "https://flagcdn.com/w320/az.png"
+  }
+}
