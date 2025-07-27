@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Explore Globe Teller Live](https://your-demo-link.vercel.app)**  
+🔗 **[Explore Globe Teller Live](https://globe-teller.vercel.app/)**  
 📁 **[View GitHub Repository](https://github.com/Tasnim-Ferdous/Globe-Teller)**
 
 ---
@@ -50,14 +50,13 @@
 
 ```
 Globe Teller/
-├── public/
-│   ├── audio/              
-│   └── favicon/
+├── public/   
+│   ├── favicon/
+│   └── data
+│       └── countryStories.json
 ├── src/
 │   ├── components/
 │   │   └── GlobeTeller.jsx
-│   ├── data
-│   │   └── countryStories.json
 │   ├── styles
 │   │   └── index.css
 │   ├── App.jsx
