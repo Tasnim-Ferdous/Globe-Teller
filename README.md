@@ -2,19 +2,17 @@
 
 **Globe Teller** is an interactive 3D globe that shows details of every country on Earth. Powered by `react-globe.gl`, it allows users to explore countries, view national flags, and experience a world of immersive geography and culture.
 
-![Globe Teller Preview](https://your-demo-link.vercel.app/preview.png)
-
 ---
 
 ## 🚀 Live Demo
 
 🔗 **[Explore Globe Teller Live](https://your-demo-link.vercel.app)**  
-📁 **[View GitHub Repository](https://github.com/your-username/GlobeTeller)**
+📁 **[View GitHub Repository](https://github.com/Tasnim-Ferdous/Globe-Teller)**
 
 ---
 
 ## 📷 Screenshot
-![Globe Teller Banner](Images/Banner.png)
+![Globe Teller Banner](https://hackclub.slack.com/archives/C016DEDUL87/p1753642491971119?thread_ts=1753642488.136549&cid=C016DEDUL87)
 
 ---
 
@@ -52,7 +50,6 @@
 
 ```
 Globe Teller/
-├── node_modules/
 ├── public/
 │   ├── audio/              
 │   └── favicon/
@@ -86,8 +83,8 @@ Made with love by **Md. Tasnim Ferdous**
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/Tasnim-Ferdous/Websites.git
-cd Websites/Globe\ Teller
+git clone https://github.com/Tasnim-Ferdous/Globe-Teller.git
+cd Globe-Teller
 npm install
 npm run dev
 ```
@@ -103,7 +100,7 @@ npm run build
 ## 🐛 Contributing & Feedback
 
 Have an idea? Found a bug?  
-Feel free to [open an issue](https://github.com/Tasnim-Ferdous/Websites/tree/Website/Globe%20Teller) or fork the project and submit a PR.
+Feel free to [open an issue](https://github.com/Tasnim-Ferdous/Globe-Teller/issues) or fork the project and submit a PR.
 
 ---
 
