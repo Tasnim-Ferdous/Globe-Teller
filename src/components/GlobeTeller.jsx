@@ -28,7 +28,7 @@ export default function GlobeTeller() {
         setCountries(countriesGeoJson);
       });
 
-    fetch("/src/data/countryStories.json")
+    fetch("/data/countryStories.json")
       .then((res) => res.json())
       .then(setStories)
       .catch(() => setStories({}));
